@@ -1,8 +1,7 @@
-# primeirof_3t
-# Terceiro trimestre
+# Terceiro Trimestre
 
-#Emanuel Carvalho da Silva Rosário
-N 6
+## Identificação
+Emanuel Carvalho da Silva Rosário - Nr. 6
 
-#CONTEÚDO
-HTML,CSS e Javascript
+## Conteúdo
+HTML, CSS e javaScript
